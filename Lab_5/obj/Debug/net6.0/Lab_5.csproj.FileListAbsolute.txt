@@ -1,0 +1,15 @@
+C:\Users\rolya\source\repos\Lab_5\Lab_5\bin\Debug\net6.0\Lab_5.exe
+C:\Users\rolya\source\repos\Lab_5\Lab_5\bin\Debug\net6.0\Lab_5.deps.json
+C:\Users\rolya\source\repos\Lab_5\Lab_5\bin\Debug\net6.0\Lab_5.runtimeconfig.json
+C:\Users\rolya\source\repos\Lab_5\Lab_5\bin\Debug\net6.0\Lab_5.dll
+C:\Users\rolya\source\repos\Lab_5\Lab_5\bin\Debug\net6.0\Lab_5.pdb
+C:\Users\rolya\source\repos\Lab_5\Lab_5\obj\Debug\net6.0\Lab_5.csproj.AssemblyReference.cache
+C:\Users\rolya\source\repos\Lab_5\Lab_5\obj\Debug\net6.0\Lab_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolya\source\repos\Lab_5\Lab_5\obj\Debug\net6.0\Lab_5.AssemblyInfoInputs.cache
+C:\Users\rolya\source\repos\Lab_5\Lab_5\obj\Debug\net6.0\Lab_5.AssemblyInfo.cs
+C:\Users\rolya\source\repos\Lab_5\Lab_5\obj\Debug\net6.0\Lab_5.csproj.CoreCompileInputs.cache
+C:\Users\rolya\source\repos\Lab_5\Lab_5\obj\Debug\net6.0\Lab_5.dll
+C:\Users\rolya\source\repos\Lab_5\Lab_5\obj\Debug\net6.0\refint\Lab_5.dll
+C:\Users\rolya\source\repos\Lab_5\Lab_5\obj\Debug\net6.0\Lab_5.pdb
+C:\Users\rolya\source\repos\Lab_5\Lab_5\obj\Debug\net6.0\Lab_5.genruntimeconfig.cache
+C:\Users\rolya\source\repos\Lab_5\Lab_5\obj\Debug\net6.0\ref\Lab_5.dll
